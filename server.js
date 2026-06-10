@@ -13,7 +13,7 @@ const port = process.env.PORT || 5000
 // >>> AJUSTE as URLs abaixo com as suas após publicar na Vercel / abrir o Codespaces.
 // ----------------------------------------------------------------------------
 const allowedOrigins = [
-  "https://projeto-front.vercel.app",            // front publicado na Vercel
+  "https://projeto-front-sigma.vercel.app",      // front publicado na Vercel
   "https://seu-codespace-8080.app.github.dev",   // front no Codespaces (porta 8080)
 ]
 
